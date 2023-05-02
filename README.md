@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+Student at the University of Vale Dos Sinos, Brazil.
+
+My repositories contain personal projects, college work and some studies that I like to publish.
+
+contact: arthur.kellermann956@gmail.com
+linkedin: https://www.linkedin.com/in/arthur-kellermann-520436263/
