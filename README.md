@@ -20,4 +20,4 @@ Student at the University of Vale Dos Sinos, Brazil.
 My repositories contain personal projects, college work and some studies that I like to publish.
 
 contact: arthur.kellermann956@gmail.com
-linkedin: https://www.linkedin.com/in/arthur-kellermann-520436263/
+linkedin: www.linkedin.com/in/arthur-kellermann
