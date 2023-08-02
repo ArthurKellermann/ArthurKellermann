@@ -8,6 +8,7 @@ My areas of expertise include:
 - 🟩 **Node.js**
 - ☕ **Java**
 - 🟨 **JavaScript**
+- 🟦 **TypeScript**
 
 If you want to get in touch with me, here are some ways:
 
