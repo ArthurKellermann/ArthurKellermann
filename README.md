@@ -3,7 +3,7 @@
 I'm a student at the University of Vale Dos Sinos in Brazil. 
 Here in my GitHub, you'll find a variety of repositories containing personal projects, university work, and studies that I'm excited to share.
 
-My areas of expertise include:
+Technologies I like to use:
 
 - 🟩 **Node.js**
 - ☕ **Java**
