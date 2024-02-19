@@ -1,7 +1,12 @@
 # Hello there! 👋
 
-I'm a student at the University of Vale do Rio dos Sinos in Brazil. 
-Here in my GitHub, you'll find a variety of repositories containing personal projects, university work, and studies that I'm excited to share.
+🌱 I'm passionate about building web applications and exploring new technologies.
+
+💼 Currently, I'm working on various projects using Node.js to create scalable and efficient backend solutions.
+
+🚀 I enjoy collaborating on open-source projects and contributing to the developer community.
+
+- Here in my GitHub, you'll find a variety of repositories containing personal projects, university work, and studies that I'm excited to share.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKellermann&layout=compact&langs_count=4&theme=dark)
