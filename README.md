@@ -2,7 +2,7 @@
 
 🌱 I'm passionate about building web applications and exploring new technologies.
 
-💼 Currently, I'm working on projects that explore the possibilities of Node.js, creating scalable and efficient backend solutions.
+💼 Currently, I'm working on projects that explore the possibilities of Node.js and .NET, creating scalable and efficient backend solutions.
 
 🚀 I enjoy collaborating on open-source projects and contributing to the developer community.
 
